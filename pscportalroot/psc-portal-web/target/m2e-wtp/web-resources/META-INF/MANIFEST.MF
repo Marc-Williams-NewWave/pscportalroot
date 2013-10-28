@@ -1,0 +1,88 @@
+Manifest-Version: 1.0
+Class-Path: lib/psc-portal-jar-1.0.jar lib/base_exception-1.0.jar lib/
+ psc-portal-ejb-1.0.jar lib/javaee-api-6.0.jar lib/commons-codec-1.3.j
+ ar lib/jasypt-1.9.1.jar lib/itext-2.1.7.jar lib/bcmail-jdk14-138.jar 
+ lib/bcprov-jdk14-138.jar lib/bctsp-jdk14-1.38.jar lib/bcprov-jdk14-1.
+ 38.jar lib/bcmail-jdk14-1.38.jar lib/commons-lang-2.4.jar lib/activei
+ o-core-3.1.2.jar lib/activemq-core-5.3.1.jar lib/org.osgi.core-4.1.0.
+ jar lib/spring-osgi-core-1.2.1.jar lib/spring-osgi-io-1.2.1.jar lib/a
+ ctivemq-protobuf-1.0.jar lib/antlr-2.7.7.jar lib/antlr-3.3.jar lib/an
+ tlr-runtime-3.3.jar lib/aopalliance-1.0.jar lib/asm-3.3.jar lib/camel
+ -blueprint-2.9.0.jar lib/camel-core-2.9.0.jar lib/camel-core-osgi-2.9
+ .0.jar lib/camel-core-xml-2.9.0.jar lib/camel-cxf-2.9.0.jar lib/camel
+ -cxf-transport-2.9.0.jar lib/camel-jaxb-2.9.0.jar lib/camel-spring-2.
+ 9.0.jar lib/camel-test-2.9.0.jar lib/junit-4.8.1.jar lib/camel-xstrea
+ m-2.9.0.jar lib/commons-beanutils-1.7.0.jar lib/commons-collections-3
+ .2.1.jar lib/commons-compress-1.0.jar lib/commons-digester-1.8.jar li
+ b/commons-exec-1.0.1.jar lib/commons-io-1.4.jar lib/commons-jexl-1.1.
+ jar lib/commons-logging-1.1.1.jar lib/commons-logging-api-1.1.jar lib
+ /commons-net-2.0.jar lib/cxf-api-2.4.4.jar lib/cxf-bundle-jaxrs-2.4.4
+ .jar lib/geronimo-servlet_2.5_spec-1.1.2.jar lib/cxf-common-utilities
+ -2.4.4.jar lib/cxf-rt-bindings-soap-2.4.4.jar lib/cxf-rt-bindings-xml
+ -2.4.4.jar lib/cxf-rt-core-2.4.4.jar lib/cxf-rt-databinding-jaxb-2.4.
+ 4.jar lib/cxf-rt-frontend-jaxrs-2.4.4.jar lib/cxf-rt-frontend-jaxws-2
+ .4.4.jar lib/cxf-rt-frontend-simple-2.4.4.jar lib/cxf-rt-transports-c
+ ommon-2.4.4.jar lib/cxf-rt-transports-http-2.4.4.jar lib/cxf-rt-ws-ad
+ dr-2.4.4.jar lib/cxf-tools-common-2.4.4.jar lib/dom4j-1.6.1.jar lib/d
+ rools-camel-5.5.0.Final.jar lib/drools-compiler-5.5.0.Final.jar lib/d
+ rools-core-5.5.0.Final.jar lib/drools-decisiontables-5.5.0.Final.jar 
+ lib/drools-grid-impl-5.5.0.Final.jar lib/drools-persistence-jpa-5.5.0
+ .Final.jar lib/drools-pipeline-5.5.0.Final.jar lib/drools-simulator-5
+ .5.0.Final.jar lib/hamcrest-core-1.2.1.jar lib/drools-spring-5.5.0.Fi
+ nal.jar lib/drools-templates-5.5.0.Final.jar lib/ecj-3.5.1.jar lib/ej
+ b3-persistence-1.0.2.GA.jar lib/freemarker-2.3.19.jar lib/geronimo-ac
+ tivation_1.1_spec-1.1.jar lib/geronimo-annotation_1.0_spec-1.1.1.jar 
+ lib/geronimo-j2ee-management_1.0_spec-1.0.jar lib/geronimo-j2ee-manag
+ ement_1.1_spec-1.0.1.jar lib/geronimo-javamail_1.4_spec-1.7.1.jar lib
+ /geronimo-jms_1.1_spec-1.1.1.jar lib/geronimo-stax-api_1.0_spec-1.0.1
+ .jar lib/h2-1.3.161.jar lib/hamcrest-integration-1.2.1.jar lib/hamcre
+ st-library-1.2.1.jar lib/hazelcast-1.8.5.jar lib/hibernate-annotation
+ s-3.4.0.GA.jar lib/hibernate-commons-annotations-3.1.0.GA.jar lib/hib
+ ernate-core-3.3.2.GA.jar lib/hibernate-entitymanager-4.0.1.Final.jar 
+ lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar lib/jboss-logging-
+ 3.1.0.CR2.jar lib/hibernate-commons-annotations-4.0.1.Final.jar lib/h
+ ibernate-jpa-2.0-api-1.0.1.Final.jar lib/javassist-3.10.0.GA.jar lib/
+ javassist-3.14.0-GA.jar lib/jaxb-api-2.2.5.jar lib/jaxb-impl-2.2.5.ja
+ r lib/jaxb-xjc-2.2.5.jar lib/jbpm-bpmn2-5.4.0.Final.jar lib/jbpm-flow
+ -5.4.0.Final.jar lib/jbpm-flow-builder-5.4.0.Final.jar lib/jbpm-worki
+ tems-5.4.0.Final.jar lib/jbpm-human-task-core-5.4.0.Final.jar lib/spr
+ ing-aop-3.0.5.RELEASE.jar lib/spring-asm-3.0.5.RELEASE.jar lib/spring
+ -beans-3.0.5.RELEASE.jar lib/spring-context-3.0.5.RELEASE.jar lib/spr
+ ing-context-support-3.0.5.RELEASE.jar lib/spring-core-3.0.5.RELEASE.j
+ ar lib/spring-expression-3.0.5.RELEASE.jar lib/spring-jdbc-3.0.5.RELE
+ ASE.jar lib/spring-security-acl-3.0.5.RELEASE.jar lib/spring-security
+ -aspects-3.0.5.RELEASE.jar lib/aspectjweaver-1.6.8.jar lib/spring-sec
+ urity-config-3.0.5.RELEASE.jar lib/spring-security-core-3.0.5.RELEASE
+ .jar lib/aspectjrt-1.6.8.jar lib/spring-security-ldap-3.0.5.RELEASE.j
+ ar lib/spring-ldap-core-1.3.0.RELEASE.jar lib/spring-security-taglibs
+ -3.0.5.RELEASE.jar lib/spring-security-web-3.0.5.RELEASE.jar lib/spri
+ ng-tx-3.0.5.RELEASE.jar lib/spring-web-3.0.5.RELEASE.jar lib/spring-w
+ ebmvc-3.0.5.RELEASE.jar lib/velocity-1.7.jar lib/jdom-1.0.jar lib/jet
+ tison-1.2.jar lib/jetty-continuation-7.4.5.v20110725.jar lib/jetty-ht
+ tp-7.4.5.v20110725.jar lib/jetty-io-7.4.5.v20110725.jar lib/jetty-sec
+ urity-7.4.5.v20110725.jar lib/jetty-server-7.4.5.v20110725.jar lib/se
+ rvlet-api-2.5.jar lib/jetty-util-7.4.5.v20110725.jar lib/joda-time-1.
+ 6.jar lib/jsr311-api-1.1.1.jar lib/jxl-2.6.10.jar lib/jxls-reader-0.9
+ .6.jar lib/kahadb-5.3.1.jar lib/knowledge-api-5.5.0.Final.jar lib/kno
+ wledge-internal-api-5.5.0.Final.jar lib/log4j-1.2.14.jar lib/milyn-co
+ mmons-1.2.jar lib/milyn-smooks-core-1.2.jar lib/dtdparser-1.21.jar li
+ b/milyn-smooks-javabean-1.2.jar lib/mina-core-2.0.1.jar lib/mvel2-2.1
+ .3.Final.jar lib/neethi-3.0.1.jar lib/org.apache.aries.blueprint-0.3.
+ jar lib/org.apache.aries.proxy.api-0.3.jar lib/org.apache.aries.tests
+ upport.unit-0.3.jar lib/org.apache.aries.util-0.3.jar lib/OSGi_R4_v4.
+ 1_core_spec-4.1.0.build-200702212030.jar lib/poi-3.0.2-FINAL.jar lib/
+ protobuf-java-2.4.1.jar lib/rome-1.0.jar lib/serializer-2.7.1.jar lib
+ /simple-jndi-0.11.4.jar lib/slf4j-api-1.6.4.jar lib/smack-3.0.4.jar l
+ ib/snakeyaml-1.4.jar lib/stax2-api-3.1.1.jar lib/stax-api-1.0.1.jar l
+ ib/stax-api-1.0-2.jar lib/stringtemplate-3.2.1.jar lib/woodstox-core-
+ asl-4.1.1.jar lib/wsdl4j-1.6.2.jar lib/xalan-2.7.1.jar lib/xercesImpl
+ -2.9.1.jar lib/xml-apis-1.3.04.jar lib/xmlpull-1.1.3.1.jar lib/xml-re
+ solver-1.2.jar lib/xmlschema-core-2.0.1.jar lib/xpp3_min-1.1.4c.jar l
+ ib/xstream-1.4.1.jar lib/jackson-core-lgpl-1.5.8.jar lib/jackson-mapp
+ er-lgpl-1.5.8.jar lib/logging_wrapper-1.0.jar lib/object_formatter-1.
+ 0.jar lib/cms-business-model-1.0.jar lib/jsp-api-2.1-6.0.0.jar lib/se
+ rvlet-api-2.5-6.0.0.jar
+Build-Jdk: 1.6.0_45
+Built-By: prabakar.singaram
+Created-By: Maven Integration for Eclipse
+

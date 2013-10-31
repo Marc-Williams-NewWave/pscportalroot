@@ -7,6 +7,39 @@
 	<packaging>pom</packaging>
 	<name>pscportalroot</name>
 	<description>pscportalroot</description>
+	  <url>http://maven.apache.org</url>
+       <repositories>
+                      <repository>
+                              <id>central</id>
+                      <url>http://localhost:8081/artifactory/repo</url>
+                      <snapshots>
+                              <enabled>false</enabled>
+                      </snapshots>
+              </repository>
+              <repository>
+                      <id>snapshots</id>
+                      <url>http://localhost:8081/artifactory/repo</url>
+                      <releases>
+                              <enabled>false</enabled>
+                      </releases>
+              </repository>
+      </repositories>
+      <pluginRepositories>
+              <pluginRepository>
+                      <id>central</id>
+                      <url>http://localhost:8081/artifactory/repo</url>
+                      <snapshots>
+                              <enabled>false</enabled>
+                      </snapshots>
+              </pluginRepository>
+              <pluginRepository>
+                      <id>snapshots</id>
+                      <url>http://localhost:8081/artifactory/repo</url>
+                      <releases>
+                              <enabled>false</enabled>
+                      </releases>
+              </pluginRepository>
+      </pluginRepositories>
 	<modules>
 		<module>psc-portal-web</module>
 		<module>psc-portal-ejb</module>

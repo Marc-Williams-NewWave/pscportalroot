@@ -57,7 +57,7 @@ public abstract class AbstractPracticeFormBinder extends BaseFormBinder {
      * Path to practice information.
      */
     public static final String PRACTICE_INFO = "/ProviderInformation/PracticeInformation/";
-
+private String testname;
     /**
      * Creates a new binder.
      * @param namespace the form namespace

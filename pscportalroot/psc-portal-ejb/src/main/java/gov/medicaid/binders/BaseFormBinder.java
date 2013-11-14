@@ -65,7 +65,7 @@ public abstract class BaseFormBinder implements FormBinder {
      * Hash key for hidden input security.
      */
     private String serverHashKey;
-
+private String name;
     /**
      * Lookup service.
      */
